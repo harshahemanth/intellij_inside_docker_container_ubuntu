@@ -17,4 +17,3 @@ RUN export uid=1000 gid=1000 && \
 USER developer
 ENV HOME /home/developer
 CMD /opt/intellij-idea-community/bin/idea.sh
-~                                           
